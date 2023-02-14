@@ -1,12 +1,4 @@
 # itachiuchiha_id card
 
-My first flutter app
 
-## Getting Started
-
-
-A few resources to get you started if you wanna make your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
+![45](https://user-images.githubusercontent.com/78672319/218703861-23314fde-0249-45a1-947f-61f5884b73da.png)
